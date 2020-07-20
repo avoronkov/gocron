@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/go-co-op/gocron"
+	"github.com/avoronkov/gocron"
 
 	"github.com/go-redis/redis"
 )
